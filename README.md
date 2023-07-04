@@ -5,6 +5,8 @@ A simple yet elegant, minimalist task application I built in my early days to ge
 
 I'm sharing it as I think it may be helpful for beginners.
 
+![alt text](https://raw.githubusercontent.com/rayen-dhmaied/Task-App/main/public/task%20app.png)
+
 Please run `npm install` first to install project dependecies.
 
 In the project directory, you can run:
